@@ -38,7 +38,7 @@ This project was further developed as part of eGatividhi, an AI & ML-based Progr
 #### Expected Outputs
 
 ![Expected_Output2_1](Resources/Figures/Expected_Output2_1.png)
-![Expected_Output2_2](Resources/Figures/Expected_Output2_2.png)
+
 
 ## Technical Environment
 
